@@ -2,6 +2,15 @@
 
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The purpose of this repository is to have a simple boilerplate to create [web-components](https://www.webcomponents.org/) using React.
+
+At the moment we cover some basics needs:
+
+- Full encapsulated CSS via the shadow-dom
+- [Build a single bundle](#yarn-buildbundle) in order of make the distribution easier.
+- Use [react-shadow-dom-retarget-events package](https://www.npmjs.com/package/react-shadow-dom-retarget-events) to be able of use React events.
+- Typescript 🚀
+
 ## Available Scripts
 
 In the project directory, you can run:
