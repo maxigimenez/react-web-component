@@ -1,5 +1,7 @@
 # React Web Component
 
+**Disclaimer: I don't recommend to use this code for production widgets, this is was made for testing purpose**
+
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The purpose of this repository is to have a simple boilerplate to create [web-components](https://www.webcomponents.org/) using React.
